@@ -18,8 +18,8 @@ application.
 be posted soon.)
 
 Presentation instructions:
-Step 1: Explain why your relation schemas are in 3NF [ explain using the schema diagram modified in 3NF ] (~1 min) -- 10 points
-Step 2: Demonstrate how you create the database/tables and populate the tables for your application (~1 minute) (10 points)
-Step 3: Demonstrate your application’s first functionality (~2 minutes) (10 points)
-Step 4: Demonstrate your application’s second functionality (~2 minutes)—10 points
-Step 5: Demonstrate your application’s third functionality (~2 minutes)—10 points 
+1: Explain why your relation schemas are in 3NF [ explain using the schema diagram modified in 3NF ] (~1 min) -- 10 points
+2: Demonstrate how you create the database/tables and populate the tables for your application (~1 minute) (10 points)
+3: Demonstrate your application’s first functionality (~2 minutes) (10 points)
+4: Demonstrate your application’s second functionality (~2 minutes)—10 points
+5: Demonstrate your application’s third functionality (~2 minutes)—10 points 
