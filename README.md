@@ -1,7 +1,8 @@
 # GardenProject
 CS3380 Final Database Project
 
-Hello! This is my garden database project I worked on for phase 3. The database itself is quick simple I created it in mysql. For the application part I decided to use the language python. 
+Hello! This is my garden database project I worked on for phase 3. The database itself is quick simple I created it in mysql. For the application part I decided to use the language python.
+ER-DIAGRAM LINK: https://www.canva.com/design/DAGEmdW2_H0/MCpmleNQTFRfcxDDn16qmQ/view?utm_content=DAGEmdW2_H0&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 Phase 3 instructions:
 1. Implement the relational database schema that you developed in Phase 2 using an open
